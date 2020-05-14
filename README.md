@@ -8,4 +8,4 @@ aprendizaje de los lenguajes de programación antes mencionados.
     
 
 
-![Ejercicio 01] : (src/arte/programar/ejercicio01)
+[Ejercicio 01]: (src/arte/programar/ejercicio01)
