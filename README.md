@@ -1,4 +1,4 @@
-### Java - Kotlin | Ejercicios Simples****
+### Java - Kotlin | Ejercicios Simples
  
 El proposito de este repositorio es recopilar ejercicios sencillos para Java o Kotlin, con el objetivo de fomentar el 
 aprendizaje de los lenguajes de programación antes mencionados.
